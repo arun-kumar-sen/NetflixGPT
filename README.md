@@ -3,6 +3,9 @@
 - Create react app
 - Configured tailwind css
 
+- Header
+- Login Form
+
 # Features
 
 - Login SignUp
@@ -19,3 +22,5 @@
 - Netflix GPT
   - Search Bar
   - Movie Suggestions
+
+Notes: to make an image overlap use absolute
