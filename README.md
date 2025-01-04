@@ -4,7 +4,17 @@
 - Configured tailwind css
 
 - Header
-- Login Form
+- Routing
+- Login Form/ Sign Up Form
+- Form Validation
+- useRef Hook
+- firebase setup
+- deploying app to production
+- create sign up/create account user account in firebase
+- Implement sign in using firebase
+- created redux store with userSlice
+- implemented sign out
+- updated profile from firebase, redirected app
 
 # Features
 
@@ -24,3 +34,32 @@
   - Movie Suggestions
 
 Notes: to make an image overlap use absolute
+
+# Steps for deplyment
+
+- install firebase CLI - npm install -g firebase-tools
+- firebase login
+- firebase init , then select hoisting
+- deply command - firebase deply
+
+https://netflixgpt-275b7.web.app
+
+# Steps for redux
+
+- npm i -D @reduxjs/toolit
+- npm i react-redux
+- appStore.js (utils)
+- inside appStore => configureStore()
+- configureStore({
+  reducer:{}
+  })
+- create userSlice.js in utils
+- create Slice
+- createSlice({
+  name:"",
+  initialState:null,
+  reducers:{
+  reducerFunction:(state,action)
+  }=>{}
+  })
+- Now provide store in app
