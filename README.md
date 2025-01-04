@@ -15,6 +15,10 @@
 - created redux store with userSlice
 - implemented sign out
 - updated profile from firebase, redirected app
+- BugFix : Sign up display name & profile picture update
+- Protected Route
+- hygiene practise i.e unsubscribe to the onAuthStateChange callback
+- add harcoded values to constant file
 
 # Features
 
