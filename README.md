@@ -29,6 +29,8 @@
 - embedded the youtube video
 - make it autoplay and mute
 - tailwind classes
+- Built Secondary container with movie list
+- created a custom hook for populat , top rating movies
 
 # Features
 
