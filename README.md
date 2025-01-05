@@ -19,6 +19,16 @@
 - Protected Route
 - hygiene practise i.e unsubscribe to the onAuthStateChange callback
 - add harcoded values to constant file
+- Register for TMDB API & create a new app and get access token
+- Get data from TMDB now playing list API
+- created custom hooks for nowPlayingMovies
+- updated store with movies data
+- planning for main Container and sec container
+- custom hook for trailer video
+- update store with trailer video data
+- embedded the youtube video
+- make it autoplay and mute
+- tailwind classes
 
 # Features
 
