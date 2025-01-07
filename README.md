@@ -29,8 +29,14 @@
 - embedded the youtube video
 - make it autoplay and mute
 - tailwind classes
-- Built Secondary container with movie list
+- Built Secondary container
+- Build Movie card
+- TMDB image CDN
 - created a custom hook for populat , top rating movies
+- GPT search feature
+- GPT search page
+- GPT search Bar
+- Added multi-language feature in search page
 
 # Features
 
