@@ -37,6 +37,9 @@
 - GPT search page
 - GPT search Bar
 - Added multi-language feature in search page
+- used GPT API for search
+- customised api calls
+- added .env file
 
 # Features
 
